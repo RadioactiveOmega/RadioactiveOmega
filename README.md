@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Alexey
+- 👀 I’m interested in Java and backend development
+- 🌱 I’m currently learning Java, Spring and algorithms
+- 💞️ I’m looking for opportunities to work as an intern or a junior developer
+- 📫 How to reach me? So you most likely got here from hh.ru, from my resume. It contains all my contacts.
+- May the good code be with you <3⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
